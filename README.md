@@ -1,4 +1,4 @@
-## I'm [Adam Braga!](https://www.naonda.digital) 👋
+## I'm [Adam Braga!](http://oadaobraga.tech) 👋
 
 <a href="https://twitter.com/phomark360">
   <img align="left" alt="Adam Braga Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -21,10 +21,10 @@
 <br/>
 <br/>
 
-- 🔭 Owner of [Na Onda Digital - Negocios Digitais](http://naonda.digital)
+- 🔭 Owner of [Negocios Digitais](http://oadaobraga.tech)
 - 🔭 I’m currently working on [CodeIgniter](https://codeigniter.com/)
 - 🌱 I’m currently learning [Node.js](https://nodejs.org/)
-- 👯 I’m looking to collaborate on [Marketing](https://phomark360.com/)
+- 👯 I’m looking to collaborate on [Marketing](http://oadaobraga.tech)
 - 💬 Ask me about PHP/C# or any tech related stuff.
 - 📫 How to reach me: [Twitter - @phomark360](https://twitter.com/phomark360)
 - 😄 Pronouns: He/His
