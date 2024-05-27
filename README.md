@@ -34,4 +34,3 @@
 [![Instagram oadaobraga](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/oadaobraga)
 [![Linkedin: braganet](https://img.shields.io/badge/-braganet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/braganet/)](https://www.linkedin.com/in/braganet/)
 [![GitHub braganetx](https://img.shields.io/github/followers/braganetx?label=follow&style=social)](https://github.com/braganetx)
-[![website](https://img.shields.io/badge/naonda.digital-2648ff?style=flat-square&logo=google-chrome)](https://oadaobraga.tech)
