@@ -25,7 +25,7 @@
 - 🔭 I’m currently working on [AI-Powered Customer Experience](http://eletriza360.com.br)
 - 🌱 I’m currently learning [MBA em Digital Business](https://mbauspesalq.com/cursos/mba-em-digital-business)
 - 👯 I’m looking to collaborate on [Marketing and AI](https://intelihube.com)
-- 💬 Ask me about PHP/C# or any tech related stuff.
+- 💬 Ask me about AI, Automation Engineer, AI-Powered Customer Experience or any tech related stuff.
 - 📫 How to reach me: [Twitter - @phomark360](https://twitter.com/phomark360)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like to learn about life, eternity, technologies, AI, and marketing.
