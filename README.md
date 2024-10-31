@@ -1,4 +1,4 @@
-## I'm [Adam Braga!](http://oadaobraga.tech) 👋
+## I'm [Adam Braga!](https://intelihube.com/oadaobraga) 👋
 
 <a href="https://twitter.com/phomark360">
   <img align="left" alt="Adam Braga Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -21,14 +21,14 @@
 <br/>
 <br/>
 
-- 🔭 Owner of [Negocios Digitais](https://oadaobraga.tech)
-- 🔭 I’m currently working on [CodeIgniter](https://codeigniter.com/)
-- 🌱 I’m currently learning [Node.js](https://nodejs.org/)
-- 👯 I’m looking to collaborate on [Marketing](https://oadaobraga.tech)
+- 🔭 Owner of [Negocios Digitais](https://intelihube.com/oadaobraga)
+- 🔭 I’m currently working on [AI-Powered Customer Experience](http://eletriza360.com.br)
+- 🌱 I’m currently learning [MBA em Digital Business](https://mbauspesalq.com/cursos/mba-em-digital-business)
+- 👯 I’m looking to collaborate on [Marketing and AI](https://intelihube.com)
 - 💬 Ask me about PHP/C# or any tech related stuff.
 - 📫 How to reach me: [Twitter - @phomark360](https://twitter.com/phomark360)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I like to learn about life, eternity, technologies, and marketing.
+- ⚡ Fun fact: I like to learn about life, eternity, technologies, AI, and marketing.
 
 [![Twitter: phomark360](https://img.shields.io/twitter/follow/phomark360?style=social)](https://twitter.com/phomark360)
 [![Instagram oadaobraga](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/oadaobraga)
