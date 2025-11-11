@@ -1,4 +1,4 @@
-## I'm [Adam Braga!](https://intelihube.com/oadaobraga) 👋
+## I'm [Adam Braga!](https://oadao.me/) 👋
 
 <a href="https://twitter.com/phomark360">
   <img align="left" alt="Adam Braga Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -21,10 +21,10 @@
 <br/>
 <br/>
 
-- 🔭 Owner of [Negocios Digitais](https://intelihube.com/oadaobraga)
-- 🔭 I’m currently working on [AI-Powered Customer Experience](http://eletriza360.com.br)
+- 🔭 Owner of [Negocios Digitais](https://eletriza360.com.br)
+- 🔭 I’m currently working on [AI-Powered Customer Experience](https://eletriza360.com.br)
 - 🌱 I’m currently learning [MBA em Digital Business](https://mbauspesalq.com/cursos/mba-em-digital-business)
-- 👯 I’m looking to collaborate on [Marketing and AI](https://intelihube.com)
+- 👯 I’m looking to collaborate on [Marketing and AI](https://oadao.me/)
 - 💬 Ask me about AI, Automation Engineer, AI-Powered Customer Experience or any tech related stuff.
 - 📫 How to reach me: [Twitter - @phomark360](https://twitter.com/phomark360)
 - 😄 Pronouns: He/His
