@@ -2,7 +2,7 @@
 
 AI Growth Engineer | Automation Architect | Backend Software Engineer
 
-[Website](https://oadao.me/) • [LinkedIn](https://www.linkedin.com/in/braganet) • [GitHub](https://github.com/braganetx) • [YouTube](https://www.youtube.com/channel/UCcC2fA0w0KmRncrzgiuV5Pw)
+[Website](https://oadao.me/) • [LinkedIn](https://www.linkedin.com/in/braganet) • [GitHub](https://github.com/braganetx)
 
 - Building AI-driven automation for customer experience, CRM, and B2B growth.
 - Specializing in Python, n8n, OpenAI, CrewAI, webhooks, APIs, and cloud workflows.
